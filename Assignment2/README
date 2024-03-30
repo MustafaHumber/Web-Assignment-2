@@ -1,0 +1,22 @@
+# Responsive Landing Page
+
+This project is a simple landing page template designed to showcase CSS animations and responsiveness using media queries.
+
+## Features
+
+- Utilizes semantic HTML5 elements for a clear and logical layout.
+- Implements CSS animations to enhance the user experience.
+- Designs that adapt seamlessly to various screen sizes using media queries.
+- Provides a well-commented CSS code explaining the purpose of each rule and animation.
+- Includes a README file documenting design choices and how to view the project.
+responsive-landing-page/
+│
+├── index.html
+├── styles.css
+└── README.md
+
+## Getting Started
+
+To view the project, simply download or clone the repository to your local machine and open the `index.html` file in your web browser and clone it.
+
+
